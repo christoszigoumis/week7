@@ -1,0 +1,2 @@
+On Monday I met with Dr. Graham as he helped me sort out my ongoing problems with R. Specifically, I had it installed but from what I understand there were pathways from R to somewhere else which resulted in me not being able to get past step 5 of week 3 for R installation.
+Dr. Graham installed homebrew which he had used to install R on his computer, and after a few more fails and sucesses, R was finally installed on my computer by going manually into the code and redirecting the pathways correctly to Jupyter lab.
