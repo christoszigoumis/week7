@@ -52,3 +52,5 @@ and of the value of people and things, resulting in a loss of
 autonomy and control." Huggett, J. (2022). ‘Is Less More? Slow Data and Datafication in Archaeology’. In K. Garstki (Ed.), Critical Archaeology in the Digital Age. UCLA Cotsen Institute of Archaeology Press. pp. 97. https://escholarship.org/uc/item/0vh9t9jq#page=112 (scroll to chapter 6 if that link doesn’t quite take you there)
 
 I think it is true that one of the most concerning problems in trying to create and gather data in archaeology as fast as possible with as much as possible is the risk of diminishing the significance of certain sites or data points which are very significant on their own.
+
+I tried doing the image classifier and resurrecting Flinders Petrie assignment, but ran into issues both times, "gpt" apparently wasn't defined in the first, and a similar thing wasn't defined in the second.
